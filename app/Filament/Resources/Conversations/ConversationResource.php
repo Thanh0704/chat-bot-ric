@@ -109,3 +109,4 @@ class ConversationResource extends Resource
         ];
     }
 }
+
